@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/14/QuadSonar
+END
+statusBits.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/13/QuadSonar/statusBits.h
+END
+prototypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/10/QuadSonar/prototypes.h
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/13/QuadSonar/common.h
+END
+definition.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/13/QuadSonar/definition.h
+END
+quadSonar.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/14/QuadSonar/quadSonar.c
+END
+settings.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/13/QuadSonar/settings.c
+END
+definitions.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3/QuadSonar/definitions.h
+END
+settings.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/13/QuadSonar/settings.h
+END
